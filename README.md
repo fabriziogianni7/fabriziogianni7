@@ -1,6 +1,22 @@
 ### Hi there 👋
 Welcome to my Github profile!
+I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
+I work in a [filecoin project](https://github.com/filecoin-project) called fil+.
 
+
+I have fun at hackathons, and those are my latest open source projects:
+
+ETHGlobal - [Space Warp(FVM Hack)]( https://github.com/fabriziogianni7/Smart-Notary-Protocol )
+
+ETHLisbon - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau)
+
+ETHGlobal - ETHAmsterdam [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify)
+
+Chainlink - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) 
+
+
+
+*My mission is to create something which could ease people life.*
 
 
 <!--
