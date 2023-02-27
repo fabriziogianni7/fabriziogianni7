@@ -8,13 +8,13 @@ I work in a [filecoin project](https://github.com/filecoin-project) called fil+.
 
 I have fun at hackathons, and those are my latest open source projects:
 
-ETHGlobal - [Space Warp(FVM Hack)]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by spheron protocol
+ETHGlobal - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes)
 
-ETHLisbon - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category
+[ETHLisbon](https://www.ethlisbon.org/) - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category [(bacalhau)](https://www.bacalhau.org/) - [demo video](https://youtu.be/mluxGr8h2ic)
 
-ETHGlobal - ETHAmsterdam [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from yearn.finance & Gearbox protocol
+ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c)
 
-Chainlink - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- Poligon pool prize winner
+[Chainlink](https://chainlinkfall2022.devpost.com/) - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8)
 
 
 
