@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 Welcome to my Github profile!
+
 I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
+
 I work in a [filecoin project](https://github.com/filecoin-project) called fil+.
 
 
@@ -16,7 +18,7 @@ Chainlink - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/cha
 
 
 
-*My mission is to create something which could ease people life.*
+*My mission is to discover what is my mission.*
 
 
 <!--
