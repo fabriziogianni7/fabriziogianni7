@@ -18,7 +18,7 @@ Chainlink - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/cha
 
 
 
-*My mission is to discover what is my mission.*
+*My mission is to discover what my mission is.*
 
 
 <!--
