@@ -16,6 +16,11 @@ ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strateg
 
 [Chainlink](https://chainlinkfall2022.devpost.com/) - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8)
 
+### Hey, those are my stats zummarized here:
+
+[![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 *My mission is to discover what my mission is.*
