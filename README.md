@@ -8,7 +8,7 @@ I work in a [filecoin project](https://github.com/filecoin-project) called fil+.
 
 I have fun at hackathons, and those are my latest open source projects:
 
-ETHGlobal - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes)
+ETHGlobal - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes) - [deployed app](https://smart-notary-protocol.com/)
 
 [ETHLisbon](https://www.ethlisbon.org/) - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category [(bacalhau)](https://www.bacalhau.org/) - [demo video](https://youtu.be/mluxGr8h2ic)
 
