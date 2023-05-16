@@ -3,18 +3,22 @@ Welcome to my Github profile!
 
 I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
 
-I work in a [filecoin project](https://github.com/filecoin-project) called fil+.
+I work in fil+ [filecoin project](https://github.com/filecoin-project).
 
 
-I have fun at hackathons, and those are my latest open source projects:
+I have fun at hackathons, and those are my latest open source projects (from the most recent):
 
-ETHGlobal - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes) - [deployed app](https://smart-notary-protocol.com/)
+ETHGlobal Lisbon 2023 (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
 
-[ETHLisbon](https://www.ethlisbon.org/) - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category [(bacalhau)](https://www.bacalhau.org/) - [demo video](https://youtu.be/mluxGr8h2ic)
+ETHGlobal - [Scaling Ethereum 2023](https://ethglobal.com/events/scaling2023) [All0x](https://github.com/fabriziogianni7/All0x) - [demo video](https://youtu.be/pmzGyZu6NV8) - **Solo Hacking**
 
-ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c)
+ETHGlobal - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes) - [deployed app](https://smart-notary-protocol.com/) - **Solo Hacking**
 
-[Chainlink](https://chainlinkfall2022.devpost.com/) - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8)
+[ETHLisbon](https://www.ethlisbon.org/) - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category [(bacalhau)](https://www.bacalhau.org/) - [demo video](https://youtu.be/mluxGr8h2ic) - **Team Hacking**
+
+ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c) - **Team Hacking**
+
+[Chainlink](https://chainlinkfall2022.devpost.com/) - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
 
 ### Hey, those are my stats zummarized here:
 
