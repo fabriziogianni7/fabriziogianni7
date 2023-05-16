@@ -1,12 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 Welcome to my Github profile!
 
 I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
 
 I work in fil+ [filecoin project](https://github.com/filecoin-project).
 
-
-I have fun at hackathons, and those are my latest open source projects (from the most recent):
+## Having fun at hackathons - Building the web3 (from the most recent)
 
 ETHGlobal Lisbon 2023 (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
 
@@ -20,7 +19,7 @@ ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strateg
 
 [Chainlink](https://chainlinkfall2022.devpost.com/) - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
 
-### Hey, those are my stats zummarized here:
+## Me in stats
 
 [![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7)](https://github.com/anuraghazra/github-readme-stats)
 
