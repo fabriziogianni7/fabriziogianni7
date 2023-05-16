@@ -21,7 +21,9 @@ ETHGlobal - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strateg
 
 ## Me in stats
 
-[![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7&theme=merko&custom_title=Fabriziogianni7's%20Open%20Source%20Activity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziogianni7&theme=merko&layout=compact)](https://github.com/fabriziogianni7/github-readme-stats)
 
 
 
