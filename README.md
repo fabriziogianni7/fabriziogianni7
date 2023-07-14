@@ -5,6 +5,11 @@ I' m a full-stack software engineer, with a Typescript main stack but having fun
 
 I work in fil+ [filecoin project](https://github.com/filecoin-project).
 
+## Exploring Account Abstraction: smart wallet from scratch here
+https://github.com/fabriziogianni7/Account-Abstraction
+
+I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
+
 ## Having fun at hackathons - Building the web3 (from the most recent)
 
 ETHGlobal Lisbon 2023 (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
