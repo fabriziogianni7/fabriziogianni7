@@ -3,7 +3,7 @@ Welcome to my Github profile!
 
 I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
 
-I work in fil+ [filecoin project](https://github.com/filecoin-project).
+I work as Innovation Leader in [Keyko.io](https://keyko.io/).
 
 ## Exploring Account Abstraction: smart wallet from scratch here
 https://github.com/fabriziogianni7/Account-Abstraction
