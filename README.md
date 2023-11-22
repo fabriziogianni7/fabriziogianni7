@@ -14,7 +14,7 @@ I'm building a smart wallet, paymaster and entrypoint following [this famous art
 
 ## Building the web3 at hackathons
 
-- **ETHGlobal Istanbul 2023** ([https://ethglobal.com/events/istanbul](https://ethglobal.com/events/istanbul)) [Dub3.ai]([https://github.com/fabriziogianni7/bob-is-safe](https://github.com/fabriziogianni7/dub3)) - [demo video](https://ethglobal.com/showcase/dub3-ai-h1riu) -- 1st classified for best AI x Blockchain project on [Cartesi]([https://zkbob.com/](https://cartesi.io/) - **Team Hacking**
+- **ETHGlobal Istanbul 2023** ([https://ethglobal.com/events/istanbul](https://ethglobal.com/events/istanbul)) [Dub3.ai]([https://github.com/fabriziogianni7/bob-is-safe](https://github.com/fabriziogianni7/dub3)) - [demo video](https://ethglobal.com/showcase/dub3-ai-h1riu) -- 1st classified for best AI x Blockchain project on [Cartesi](https://cartesi.io/) - **Team Hacking**
 
 - **ETHGlobal Lisbon 2023** (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
 
