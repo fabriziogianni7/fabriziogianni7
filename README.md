@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to my Github profile!
 
-I' m a full-stack software engineer, with a Typescript main stack but having fun with Blockchain and Solidity.
+I' m a full-stack software engineer with a Typescript and Solidity stack.
 
 I work as Innovation Leader in [Keyko.io](https://keyko.io/).
 
