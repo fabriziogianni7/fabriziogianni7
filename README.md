@@ -5,6 +5,8 @@ I' m a full-stack software engineer with a Typescript and Solidity stack.
 
 I work as Innovation Leader in [Keyko.io](https://keyko.io/).
 
+I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
+
 ## Exploring Account Abstraction: smart wallet from scratch here
 https://github.com/fabriziogianni7/Account-Abstraction
 
