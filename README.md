@@ -3,7 +3,7 @@ Welcome to my Github profile!
 
 I' m a full-stack software engineer with a Typescript and Solidity stack.
 
-I work as Innovation Leader in [Keyko.io](https://keyko.io/).
+I work as a full stack dev in [Keyko.io](https://keyko.io/).
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
