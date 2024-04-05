@@ -1,13 +1,25 @@
 # Hi there 👋
-Welcome to my Github profile!
+**Fabriziogianni7** is glad that you're here!
 
-I' m a full-stack software engineer with a Typescript and Solidity stack.
+I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development.
 
 I work as a full stack dev in [Keyko.io](https://keyko.io/).
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
-## Exploring Account Abstraction: smart wallet from scratch here
+
+## My Latest Solidity Work
+| Project Name | Tools | Field | Demo | Description |
+|--------------|-------|-------|------|-------------|
+| [Lupa Stablecoin](https://github.com/fabriziogianni7/lupa-stablecoin) | Foundry | DeFi | Coming soon | Algorithmic stablecoin - experiment with sc security and fuzz testing |
+| [Burra Vault](https://github.com/fabriziogianni7/Burra-Vault-LFGHO)    | Hardhat | DeFi| [Demo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO) | GHO stablecoin minting strategy  |
+| [ERC20 Swapper](https://github.com/fabriziogianni7/erc20-swapper)    | Hardhat | DeFi| Coming soon | Swap ETH for erc20s using uniswap |
+| [Raffle](https://github.com/fabriziogianni7/foundry-raffle)    | Foundry | Gaming | Coming soon | Play raffle with this projects |
+| [Tube](https://github.com/fabriziogianni7/tube/tree/main/contracts)   | Hardhat | Scale Ethereum | [Demo](https://ethglobal.com/showcase/tube-subnet-ck7gd) | Smart contract repository |
+| [Account-Abstraction](https://github.com/fabriziogianni7/Account-Abstraction)  | Hardhat | Account abstraction| Coming soon | Creating AA from scratch |
+
+
+## Exploring Account Abstraction: A Smart Wallet From Scratch
 https://github.com/fabriziogianni7/Account-Abstraction
 
 I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
@@ -30,7 +42,7 @@ I'm building a smart wallet, paymaster and entrypoint following [this famous art
 
 - **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
 
-## Me in stats
+## Some Stats
 
 [![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7&theme=merko&custom_title=Fabriziogianni7's%20Open%20Source%20Activity&langs_count=10)](https://github.com/fabriziogianni7/github-readme-stats)
 
