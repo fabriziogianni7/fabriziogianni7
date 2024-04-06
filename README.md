@@ -24,7 +24,7 @@ https://github.com/fabriziogianni7/Account-Abstraction
 
 I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
 
-## Building the web3 at hackathons
+## Building Web3 At Hackathons
 
 - **ETHGlobal LFGHO 2024**  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) - [demo video](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) - [Live App](https://burra-vault-lfgho-434a41.spheron.app/) -- Hackathon Finalist (first 10 classified 🍾🍾🍾🍾🍾) - **Solo Hacking**
 
