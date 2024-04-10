@@ -11,10 +11,10 @@ I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making
 ## My Latest Solidity Work
 | Project Name | Tools | Field | Demo | Description |
 |--------------|-------|-------|------|-------------|
-| [Lupa Stablecoin](https://github.com/fabriziogianni7/lupa-stablecoin) | Foundry | DeFi | Coming soon | Algorithmic stablecoin - experiment with sc security and fuzz testing |
+| [Lupa Stablecoin](https://github.com/fabriziogianni7/lupa-stablecoin) | Foundry | DeFi | Coming soon | Algorithmic stablecoin - experiment with sc security and fuzz testing, done following the great course from [cyfrin updraft](https://updraft.cyfrin.io/) |
 | [Burra Vault](https://github.com/fabriziogianni7/Burra-Vault-LFGHO)    | Hardhat | DeFi| [Demo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO) | GHO stablecoin minting strategy  |
 | [ERC20 Swapper](https://github.com/fabriziogianni7/erc20-swapper)    | Hardhat | DeFi| Coming soon | Swap ETH for erc20s using uniswap |
-| [Raffle](https://github.com/fabriziogianni7/foundry-raffle)    | Foundry | Gaming | Coming soon | Play raffle with this projects |
+| [Raffle](https://github.com/fabriziogianni7/foundry-raffle)    | Foundry | Gaming | Coming soon | Play raffle, done following the great course from [cyfrin updraft](https://updraft.cyfrin.io/) |
 | [Tube](https://github.com/fabriziogianni7/tube/tree/main/contracts)   | Hardhat | Scale Ethereum | [Demo](https://ethglobal.com/showcase/tube-subnet-ck7gd) | Smart contract repository |
 | [Account-Abstraction](https://github.com/fabriziogianni7/Account-Abstraction)  | Hardhat | Account abstraction| Coming soon | Creating AA from scratch |
 
