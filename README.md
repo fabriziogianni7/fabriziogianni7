@@ -1,7 +1,7 @@
 # Hi there 👋
 **Fabriziogianni7** is glad that you're here!
 
-I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development.
+I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
 
 I work as a full stack dev in [Keyko.io](https://keyko.io/).
 
