@@ -7,6 +7,8 @@ I work as a full stack dev in [Keyko.io](https://keyko.io/).
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
+## Getting Deeeeeeeep On Smart Contract Security
+Have a look to [this repo containig all my security reviews](https://github.com/fabriziogianni7/security-reviews/tree/main)! This is in progress but will grow over time!
 
 ## My Latest Solidity Work
 | Project Name | Tools | Field | Demo | Description |
