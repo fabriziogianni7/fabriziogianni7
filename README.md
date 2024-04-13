@@ -3,8 +3,6 @@
 
 I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
 
-I work as a full stack dev in [Keyko.io](https://keyko.io/).
-
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
 ## Getting Deeeeeeeep On Smart Contract Security
