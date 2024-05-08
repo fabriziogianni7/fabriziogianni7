@@ -1,4 +1,4 @@
-# Hi there 👋
+# Buon Giorno 👋
 **Fabriziogianni7** is glad that you're here!
 
 I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
