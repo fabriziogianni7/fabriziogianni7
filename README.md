@@ -3,7 +3,7 @@
 
 I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
 
-CUURENTLY LIVE STREAMING CHAINLINK BLOCK MAGIC HACKATHON - BUILDING A CROSS CHAIN LIQUIDITY BASED BRIDGE - BUCKLE APP - FOLLOW ME ON YOUTUBE: https://www.youtube.com/@fabriziogianni7
+**CUURENTLY LIVE STREAMING CHAINLINK BLOCK MAGIC HACKATHON - BUILDING A CROSS CHAIN LIQUIDITY BASED BRIDGE - BUCKLE APP - FOLLOW ME ON YOUTUBE:** https://www.youtube.com/@fabriziogianni7
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
