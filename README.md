@@ -5,6 +5,8 @@ I' m a full-stack software engineer with a Typescript + Solidity stack. I want t
 
 **CUURENTLY LIVE STREAMING CHAINLINK BLOCK MAGIC HACKATHON - BUILDING A CROSS CHAIN LIQUIDITY BASED BRIDGE - BUCKLE APP - FOLLOW ME ON YOUTUBE:** https://www.youtube.com/@fabriziogianni7
 
+buckle repo: https://github.com/fabriziogianni7/buckle-app
+
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
 
 ## Getting Deeeeeeeep On Smart Contract Security
