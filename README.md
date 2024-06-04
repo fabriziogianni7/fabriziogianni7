@@ -15,7 +15,7 @@ Have a look to [this repo containig all my security reviews](https://github.com/
 ## My Latest Solidity Work
 | Project Name | Tools | Field | Demo | Description |
 |--------------|-------|-------|------|-------------|
-| [Buckle - Permissionless Bridge](https://github.com/fabriziogianni7/buckle-app)|Foundry, Nextjs|Cross-Chain|[Video Demo](https://youtu.be/re0vhNG-GqE?si=XJJFXlvOvNoK9OeL)|A Permissionless bridge based on LPs|
+| [Buckle - Permissionless Bridge](https://github.com/fabriziogianni7/buckle-app)|Foundry, Nextjs|Cross-Chain|[Demo](https://youtu.be/re0vhNG-GqE?si=XJJFXlvOvNoK9OeL)|A Permissionless bridge based on LPs|
 | [Lupa Stablecoin](https://github.com/fabriziogianni7/lupa-stablecoin) | Foundry | DeFi | Coming soon | Algorithmic stablecoin - experiment with sc security and fuzz testing, done following the great course from [cyfrin updraft](https://updraft.cyfrin.io/) |
 | [Burra Vault](https://github.com/fabriziogianni7/Burra-Vault-LFGHO)    | Hardhat | DeFi| [Demo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO) | GHO stablecoin minting strategy  |
 | [ERC20 Swapper](https://github.com/fabriziogianni7/erc20-swapper)    | Hardhat | DeFi| Coming soon | Swap ETH for erc20s using uniswap |
