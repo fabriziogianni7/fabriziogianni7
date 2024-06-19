@@ -3,7 +3,7 @@
 
 Check my [YT channel](https://www.youtube.com/@fabriziogianni7) to see my latest solidity experiments!
 
-I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
+I' m a full-stack software engineer with a Typescript + Solidity stack.
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed to [ETHRome 2023](https://ethrome.org/).
 
