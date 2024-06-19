@@ -1,15 +1,12 @@
 # Buon Giorno 👋
 **Fabriziogianni7** is glad that you're here!
+Check my [YT channel](https://www.youtube.com/@fabriziogianni7) to see my latest solidity experiments!
 
 I' m a full-stack software engineer with a Typescript + Solidity stack. I want to get more into solidity and just focus on smart contract development and why not, sc security!
 
-**CUURENTLY LIVE STREAMING CHAINLINK BLOCK MAGIC HACKATHON - BUILDING A CROSS CHAIN LIQUIDITY BASED BRIDGE - BUCKLE APP - FOLLOW ME ON YOUTUBE:** https://www.youtube.com/@fabriziogianni7
+I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed to [ETHRome 2023](https://ethrome.org/).
 
-buckle repo: https://github.com/fabriziogianni7/buckle-app
-
-I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed in making [ETHRome 2023](https://ethrome.org/) happen.
-
-## Getting Deeeeeeeep On Smart Contract Security
+## Getting Deep On Smart Contract Security
 Have a look to [this repo containig all my security reviews](https://github.com/fabriziogianni7/security-reviews/tree/main)! This is in progress but will grow over time!
 
 ## My Latest Solidity Work
