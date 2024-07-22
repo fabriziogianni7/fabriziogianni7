@@ -22,12 +22,11 @@ Have a look to [this repo containig all my security reviews](https://github.com/
 | [Account-Abstraction](https://github.com/fabriziogianni7/Account-Abstraction)  | Hardhat | Account abstraction| Coming soon | Creating AA from scratch |
 
 
-## Exploring Account Abstraction: A Smart Wallet From Scratch
-https://github.com/fabriziogianni7/Account-Abstraction
-
-I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
-
 ## Building Web3 At Hackathons
+
+- **Dagi House 2024**  [Repo](https://github.com/fabriziogianni7/Jarvis) - [demo video](https://www.youtube.com/watch?v=2keF5hi94xU) - [Live App](https://jarvis-orpin-one.vercel.app/) -- Hackathon 3rd classified 🍾🍾🍾🍾🍾 - **Done with [@mcmoodoo](https://github.com/mcmoodoo)**
+
+- **Chainlink Block Magic Hackathon**  [Repo](https://github.com/fabriziogianni7/buckle-app) - [demo video](https://www.youtube.com/watch?v=re0vhNG-GqE) - [Live App](https://buckle-app.vercel.app/) -- 2nd classified in Cross Chain Track 🍾🍾🍾🍾🍾 - **Solo Hacking**
 
 - **ETHGlobal LFGHO 2024**  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) - [demo video](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) - [Live App](https://burra-vault-lfgho-434a41.spheron.app/) -- Hackathon Finalist (first 10 classified 🍾🍾🍾🍾🍾) - **Solo Hacking**
 
@@ -44,6 +43,12 @@ I'm building a smart wallet, paymaster and entrypoint following [this famous art
 - **ETHGlobal** - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c) - **Team Hacking**
 
 - **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
+
+
+## Exploring Account Abstraction: A Smart Wallet From Scratch
+https://github.com/fabriziogianni7/Account-Abstraction
+
+I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
 
 ## Some Stats
 
