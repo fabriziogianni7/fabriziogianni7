@@ -26,11 +26,11 @@ Have a look to [this repo containig all my security reviews](https://github.com/
 
 - **Dagi House 2024**  [Repo](https://github.com/fabriziogianni7/Jarvis) - [demo video](https://www.youtube.com/watch?v=2keF5hi94xU) - [Live App](https://jarvis-orpin-one.vercel.app/) -- Hackathon 3rd classified 🍾🍾🍾🍾🍾 - **Done with [@mcmoodoo](https://github.com/mcmoodoo)**
 
-- **Chainlink Block Magic Hackathon**  [Repo](https://github.com/fabriziogianni7/buckle-app) - [demo video](https://www.youtube.com/watch?v=re0vhNG-GqE) - [Live App](https://buckle-app.vercel.app/) -- 2nd classified in Cross Chain Track 🍾🍾🍾🍾🍾 - **Solo Hacking**
+- **Chainlink Block Magic Hackathon**  [Repo](https://github.com/fabriziogianni7/buckle-app) - [demo video](https://www.youtube.com/watch?v=re0vhNG-GqE) - [Live App](https://buckle-app.vercel.app/) -- 2nd classified in cross-chain track 🍾🍾🍾🍾🍾 - **Solo Hacking**
 
-- **ETHGlobal LFGHO 2024**  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) - [demo video](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) - [Live App](https://burra-vault-lfgho-434a41.spheron.app/) -- Hackathon Finalist (first 10 classified 🍾🍾🍾🍾🍾) - **Solo Hacking**
+- **ETHGlobal LFGHO 2024**  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) - [demo video](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) - [Live App](https://burra-vault-lfgho-434a41.spheron.app/) -- Hackathon finalist (first 10 classified 🍾🍾🍾🍾🍾) - **Solo Hacking**
 
-- **ETHGlobal Istanbul 2023** ([https://ethglobal.com/events/istanbul](https://ethglobal.com/events/istanbul)) [Dub3.ai]([https://github.com/fabriziogianni7/bob-is-safe](https://github.com/fabriziogianni7/dub3)) - [demo video](https://ethglobal.com/showcase/dub3-ai-h1riu) -- 1st classified for best AI x Blockchain project on [Cartesi](https://cartesi.io/) - **Team Hacking**
+- **ETHGlobal Istanbul 2023** ([https://ethglobal.com/events/istanbul](https://ethglobal.com/events/istanbul)) [Dub3.ai]([https://github.com/fabriziogianni7/bob-is-safe](https://github.com/fabriziogianni7/dub3)) - [demo video](https://ethglobal.com/showcase/dub3-ai-h1riu) -- 1st classified for best AI x blockchain project on [Cartesi](https://cartesi.io/) - **Team Hacking**
 
 - **ETHGlobal Lisbon 2023** (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
 
