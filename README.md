@@ -1,14 +1,14 @@
 # Buon Giorno 👋
-**Fabriziogianni7** is glad that you're here!
+I'm so glad that you're here!
 
-Check my [YT channel](https://www.youtube.com/@fabriziogianni7) to see my latest solidity experiments!
+I' m a full-stack software engineer. I have fun writing smart contracts in Solidity and building full stack blockchain applications.
 
-I' m a full-stack software engineer with a Typescript + Solidity stack.
+Subscribe to my [YT channel](https://www.youtube.com/@fabriziogianni7)! I'm posting programming content, smart contract security content and interviews to web3 people.
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed to [ETHRome 2023](https://ethrome.org/).
 
 ## Getting Deep On Smart Contract Security
-Have a look to [this repo containig all my security reviews](https://github.com/fabriziogianni7/security-reviews/tree/main)! This is in progress but will grow over time!
+Have a look to [this repo containig all my security reviews](https://github.com/fabriziogianni7/security-reviews/tree/main)! ‼️ This is in progress but will grow over time ‼️
 
 ## My Latest Solidity Work
 | Project Name | Tools | Field | Demo | Description |
