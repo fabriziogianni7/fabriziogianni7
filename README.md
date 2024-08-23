@@ -3,7 +3,10 @@ I'm so glad that you're here!
 
 I' m a full-stack software engineer. I have fun writing smart contracts in Solidity and building full stack blockchain applications.
 
-Subscribe to my [YT channel](https://www.youtube.com/@fabriziogianni7)! I'm posting programming content, smart contract security content and interviews to web3 people.
+Subscribe to my [YT channel](https://www.youtube.com/@fabriziogianni7)! I'm posting video explainers, programming content, smart contract security content and interviews to web3 people.
+That is my hot content:
+[Explaining Data Availability](https://youtu.be/tX_0bl0yFuE?si=AZPnHkPYxlKafCNd)
+[Talking with Colfax, SWE at Privy](https://www.youtube.com/watch?v=JA7OhZIQijo)
 
 I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed to [ETHRome 2023](https://ethrome.org/).
 
