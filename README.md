@@ -1,33 +1,17 @@
-# Buon Giorno 👋
-I'm so glad that you're here!
+# Benvenuti 👋
 
-I' m a full-stack software engineer. I have fun writing smart contracts in Solidity and building full stack blockchain applications.
 
-Subscribe to my [YT channel](https://www.youtube.com/@fabriziogianni7)! I'm posting video explainers, programming content, smart contract security content and interviews to web3 people.
-That is my latest content:
+I' m a full-stack software dev. building full stack since 2018, now specialized in solidity. 
 
-[Explaining Data Availability](https://youtu.be/tX_0bl0yFuE?si=AZPnHkPYxlKafCNd)
+Currently shipping smart contracts on [@Beam Network](https://onbeam.com/).
 
-[Talking with Colfax, SWE at Privy](https://www.youtube.com/watch?v=JA7OhZIQijo)
+previously delivering with [Keyko](https://keyko.io/).
 
-[Buckle - A permissionless bridge on CCIP - built on a live streaming](https://youtu.be/re0vhNG-GqE?si=HcvqRkvJafwLvypk)
+Got a [web3 YT channel](https://www.youtube.com/@fabriziogianni7)! 
 
-I'm part of [urbe.eth](https://twitter.com/urbeEth), and I contributed to [ETHRome 2023](https://ethrome.org/).
+Proud to be part of [urbe.eth community](https://twitter.com/urbeEth).
 
-## Getting Deep On Smart Contract Security
-Have a look to [this repo containig all my security reviews](https://github.com/fabriziogianni7/security-reviews/tree/main)! ‼️ This is in progress but will grow over time ‼️
-
-## My Latest Solidity Work
-| Project Name | Tools | Field | Demo | Description |
-|--------------|-------|-------|------|-------------|
-| [Buckle - Permissionless Bridge](https://github.com/fabriziogianni7/buckle-app)|Foundry, Nextjs|Cross-Chain|[Demo](https://youtu.be/re0vhNG-GqE?si=XJJFXlvOvNoK9OeL)|A Permissionless bridge based on LPs|
-| [Lupa Stablecoin](https://github.com/fabriziogianni7/lupa-stablecoin) | Foundry | DeFi | Coming soon | Algorithmic stablecoin - experiment with sc security and fuzz testing, done following the great course from [cyfrin updraft](https://updraft.cyfrin.io/) |
-| [Burra Vault](https://github.com/fabriziogianni7/Burra-Vault-LFGHO)    | Hardhat | DeFi| [Demo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO) | GHO stablecoin minting strategy  |
-| [ERC20 Swapper](https://github.com/fabriziogianni7/erc20-swapper)    | Hardhat | DeFi| Coming soon | Swap ETH for erc20s using uniswap |
-| [Raffle](https://github.com/fabriziogianni7/foundry-raffle)    | Foundry | Gaming | Coming soon | Play raffle, done following the great course from [cyfrin updraft](https://updraft.cyfrin.io/) |
-| [Tube](https://github.com/fabriziogianni7/tube/tree/main/contracts)   | Hardhat | Scale Ethereum | [Demo](https://ethglobal.com/showcase/tube-subnet-ck7gd) | Smart contract repository |
-| [Account-Abstraction](https://github.com/fabriziogianni7/Account-Abstraction)  | Hardhat | Account abstraction| Coming soon | Creating AA from scratch |
-
+Contributed to [ETHRome 2023/24](https://ethrome.org/).
 
 ## Building Web3 At Hackathons
 
@@ -50,12 +34,6 @@ Have a look to [this repo containig all my security reviews](https://github.com/
 - **ETHGlobal** - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c) - **Team Hacking**
 
 - **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
-
-
-## Exploring Account Abstraction: A Smart Wallet From Scratch
-https://github.com/fabriziogianni7/Account-Abstraction
-
-I'm building a smart wallet, paymaster and entrypoint following [this famous article](https://www.alchemy.com/blog/account-abstraction)
 
 ## Some Stats
 
