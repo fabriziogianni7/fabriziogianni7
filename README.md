@@ -1,8 +1,7 @@
 # Benvenuti 👋
 
-
-I' m a full-stack software dev. building full stack since 2018, now specialized in solidity. 
-
+full-stack web3 dev. building full stack since 2018, solidity maximalist. 
+------------
 Currently shipping smart contracts on [@Beam Network](https://onbeam.com/).
 
 previously delivering with [Keyko](https://keyko.io/).
@@ -34,7 +33,7 @@ Contributed to [ETHRome 2023/24](https://ethrome.org/).
 - **ETHGlobal** - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c) - **Team Hacking**
 
 - **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
-
+-----
 *I got very few strong opinions, world's so hard to understand*
 
 
