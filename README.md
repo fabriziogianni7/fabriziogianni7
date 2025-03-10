@@ -35,14 +35,6 @@ Contributed to [ETHRome 2023/24](https://ethrome.org/).
 
 - **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
 
-## Some Stats
-
-[![Fabriziogianni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziogianni7&theme=merko&custom_title=Fabriziogianni7's%20Open%20Source%20Activity&langs_count=10)](https://github.com/fabriziogianni7/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziogianni7&theme=merko&layout=compact)](https://github.com/fabriziogianni7/github-readme-stats)
-
-
-
-*La derrota y la victoria solo duran un dia.*
+*I got very few strong opinions, world's so hard to understand*
 
 
