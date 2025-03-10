@@ -1,6 +1,6 @@
 # Benvenuti 👋
 
-full-stack web3 dev. building full stack since 2018, solidity maximalist. 
+full-stack web3 dev. building full stack since 2018, solidity guy. 
 ------------
 Currently shipping smart contracts on [@Beam Network](https://onbeam.com/).
 
