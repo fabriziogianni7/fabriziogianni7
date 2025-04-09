@@ -1,41 +1,63 @@
-# Benvenuti 👋
+# Ciao! 👋
 
-Full-stack web3 dev | Building full stack since 2018 | Solidity guy
-------------
-Currently shipping smart contracts on [@Beam Network](https://onbeam.com/).
+**Smart Contract Developer** | Building since 2018 | 🤟 100% test coverage guy
 
-previously delivering with [Keyko](https://keyko.io/).
+Currently crafting smart contracts at [**Beam Network**](https://onbeam.com/).  
+Previously shipped solutions with [**Keyko**](https://keyko.io/), [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus) and [Mode Network](https://www.mode.network/).  
 
-Got a [web3 YT channel](https://www.youtube.com/@fabriziogianni7)! 
+🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).  
+🏛️ Proud member of the [**urbe.eth community**](https://twitter.com/urbeEth).  
+⚡️ Contributed to [**ETHRome 2023/24**](https://ethrome.org/).  
 
-Proud to be part of [urbe.eth community](https://twitter.com/urbeEth).
+---
 
-Contributed to [ETHRome 2023/24](https://ethrome.org/).
+## Web3 Hackathon Highlights 🛠️
 
-## Building Web3 At Hackathons
+- **zk-wormhole (ETHGlobal Trifecta)**  
+  [Repo](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) | [Demo](https://ethglobal.com/showcase/zk-wormhole-7d6c3) | [Live](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/)  
+  🏆 *Winner: Succint Prize*  
 
-- **ETHGlobal Trifecta** [Repo](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) - [demo video](https://ethglobal.com/showcase/zk-wormhole-7d6c3) - [Live App](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/) -- Winner of Prize from [Succint](https://www.succinct.xyz/)  🍾🍾🍾🍾🍾 
+- **Jarvis (Dagi House 2024)** (w/ [@mcmoodoo](https://github.com/mcmoodoo))  
+  [Repo](https://github.com/fabriziogianni7/Jarvis) | [Demo](https://www.youtube.com/watch?v=2keF5hi94xU) | [Live](https://jarvis-orpin-one.vercel.app/)  
+  🏆 *3rd Place*  
 
-- **Dagi House 2024**  [Repo](https://github.com/fabriziogianni7/Jarvis) - [demo video](https://www.youtube.com/watch?v=2keF5hi94xU) - [Live App](https://jarvis-orpin-one.vercel.app/) -- Hackathon 3rd classified 🍾🍾🍾🍾🍾 - **Done with [@mcmoodoo](https://github.com/mcmoodoo)**
+- **Buckle (Chainlink Block Magic Hackathon)** (Solo)  
+  [Repo](https://github.com/fabriziogianni7/buckle-app) | [Demo](https://www.youtube.com/watch?v=re0vhNG-GqE) | [Live](https://buckle-app.vercel.app/)  
+  🏆 *2nd Place: Cross-Chain Track*  
 
-- **Chainlink Block Magic Hackathon**  [Repo](https://github.com/fabriziogianni7/buckle-app) - [demo video](https://www.youtube.com/watch?v=re0vhNG-GqE) - [Live App](https://buckle-app.vercel.app/) -- 2nd classified in cross-chain track 🍾🍾🍾🍾🍾 - **Solo Hacking**
+- **Burra Vault (ETHGlobal LFGHO 2024)** (Solo)  
+  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) | [Demo](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) | [Live](https://burra-vault-lfgho-434a41.spheron.app/)  
+  🏆 *Top 10 Finalist*  
 
-- **ETHGlobal LFGHO 2024**  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) - [demo video](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) - [Live App](https://burra-vault-lfgho-434a41.spheron.app/) -- Hackathon finalist (first 10 classified 🍾🍾🍾🍾🍾) - **Solo Hacking**
+- **Dub3.ai (ETHGlobal Istanbul 2023)**  
+  [Repo](https://github.com/fabriziogianni7/dub3) | [Demo](https://ethglobal.com/showcase/dub3-ai-h1riu)  
+  🏆 *1st Place: Best AI x Blockchain (Cartesi)*  
 
-- **ETHGlobal Istanbul 2023** ([https://ethglobal.com/events/istanbul](https://ethglobal.com/events/istanbul)) [Dub3.ai]([https://github.com/fabriziogianni7/bob-is-safe](https://github.com/fabriziogianni7/dub3)) - [demo video](https://ethglobal.com/showcase/dub3-ai-h1riu) -- 1st classified for best AI x blockchain project on [Cartesi](https://cartesi.io/) - **Team Hacking**
+- **Bob Is Safe (ETHGlobal Lisbon 2023)**  
+  [Repo](https://github.com/fabriziogianni7/bob-is-safe) | [Demo](https://youtu.be/jQ2h1h95F5Q)  
+  🏆 *1st Place: ZkBob Prize*  
 
-- **ETHGlobal Lisbon 2023** (https://ethglobal.com/events/lisbon) [Bob Is Safe](https://github.com/fabriziogianni7/bob-is-safe) - [demo video](https://youtu.be/jQ2h1h95F5Q) -- 1st classified for [ZkBob](https://zkbob.com/) - **Team Hacking**
+- **All0x (Scaling Ethereum 2023)** (Solo)  
+  [Repo](https://github.com/fabriziogianni7/All0x) | [Demo](https://youtu.be/pmzGyZu6NV8)  
 
-- **ETHGlobal** - [Scaling Ethereum 2023](https://ethglobal.com/events/scaling2023) [All0x](https://github.com/fabriziogianni7/All0x) - [demo video](https://youtu.be/pmzGyZu6NV8) - **Solo Hacking**
+- **Smart Notary Protocol (Space Warp FVM Hack)** (Solo)  
+  [Repo](https://github.com/fabriziogianni7/Smart-Notary-Protocol) | [Demo](https://youtu.be/CYYsoPYDCes) | [Live](https://smart-notary-protocol.com/)  
+  🏆 *Top 10: Spheron Protocol*  
 
-- **ETHGlobal** - [Space Warp(FVM Hack)](https://ethglobal.com/events/spacewarp) [Smart-Notary-Protocol]( https://github.com/fabriziogianni7/Smart-Notary-Protocol ) -- Winner of top 10 projects by [spheron protocol](https://spheron.network/) - [demo video](https://youtu.be/CYYsoPYDCes) - [deployed app](https://smart-notary-protocol.com/) - **Solo Hacking**
+- **IPFS Video Computation (ETHLisbon)**  
+  [Repo](https://github.com/rickkdev/ipfs-video-computation-bacalhau) | [Demo](https://youtu.be/mluxGr8h2ic)  
+  🏆 *1st Place: Bacalhau COD Category*  
 
-- **ETHLisbon** - [Bacalhau Compute Over Data - ipfs video computation](https://github.com/rickkdev/ipfs-video-computation-bacalhau) -- Winner of 1st prize for COD category [(bacalhau)](https://www.bacalhau.org/) - [demo video](https://youtu.be/mluxGr8h2ic) - **Team Hacking**
+- **StraEthgify (ETHAmsterdam)**  
+  [Repo](https://github.com/fabriziogianni7/straEthgify) | [Demo](https://youtu.be/1xtfiZXh43c)  
+  🏆 *Prizes: Yearn.Finance & Gearbox Protocol*  
 
-- **ETHGlobal** - [ETHAmsterdam](https://amsterdam.ethglobal.com/) [investment strategy backtester](https://github.com/fabriziogianni7/straEthgify) -- Winner of prizes from [yearn.finance](https://yearn.finance/) & [Gearbox protocol](https://gearbox.fi/) - [demo video](https://youtu.be/1xtfiZXh43c) - **Team Hacking**
+- **Chainlink Technical Indicators (Chainlink Fall 2022)**  
+  [Repo](https://github.com/ialberquilla/chainlink-technical-indicators) | [Demo](https://youtu.be/VAmiDG67CY8)  
+  🏆 *Polygon Pool Prize*  
 
-- **Chainlink** - [Chainlink 2022 Fall Hackathon ](https://github.com/ialberquilla/chainlink-technical-indicators) -- [Poligon](https://polygon.technology/) pool prize winner - [demo video](https://youtu.be/VAmiDG67CY8) - **Team Hacking**
------
-*I got very few strong opinions, world's so hard to understand*
+*...and many more! Check my repos for the full scoop.*
 
+---
 
+*"Life is a cookie, but if it rains it melts"*  
