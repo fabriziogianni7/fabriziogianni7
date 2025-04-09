@@ -14,6 +14,8 @@ Contributed to [ETHRome 2023/24](https://ethrome.org/).
 
 ## Building Web3 At Hackathons
 
+- **ETHGlobal Trifecta** [Repo](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) - [demo video](https://ethglobal.com/showcase/zk-wormhole-7d6c3) - [Live App](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/) -- Winner of Prize from [Succint](https://www.succinct.xyz/)  🍾🍾🍾🍾🍾 
+
 - **Dagi House 2024**  [Repo](https://github.com/fabriziogianni7/Jarvis) - [demo video](https://www.youtube.com/watch?v=2keF5hi94xU) - [Live App](https://jarvis-orpin-one.vercel.app/) -- Hackathon 3rd classified 🍾🍾🍾🍾🍾 - **Done with [@mcmoodoo](https://github.com/mcmoodoo)**
 
 - **Chainlink Block Magic Hackathon**  [Repo](https://github.com/fabriziogianni7/buckle-app) - [demo video](https://www.youtube.com/watch?v=re0vhNG-GqE) - [Live App](https://buckle-app.vercel.app/) -- 2nd classified in cross-chain track 🍾🍾🍾🍾🍾 - **Solo Hacking**
