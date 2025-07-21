@@ -7,7 +7,7 @@ Previously shipped solutions with [**Keyko**](https://keyko.io/), [**Filecoin**]
 
 🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).  
 🏛️ Proud member of the [**urbe.eth community**](https://twitter.com/urbeEth).  
-⚡️ Contributing to [**ETHRome](https://ethrome.org/).  
+⚡️ Contributing to [**ETHRome**](https://ethrome.org/).  
 
 ---
 
