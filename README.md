@@ -1,15 +1,14 @@
 # Ciao! 👋
 
-**Smart Contract Developer & Blockchain Educator** | Building since 2018 | 🤟 100% test coverage guy
+**Smart Contract Developer & Blockchain Educator** | Building since 2018 | 🤟 100% test coverage guy.
 
-Currently crafting smart contracts at [**Beam Network**](https://onbeam.com/).  
-Previously shipped solutions with [**Keyko**](https://keyko.io/), [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus) and [**Mode Network**](https://www.mode.network/).  
+Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://twitter.com/urbeEth).  
+
+FS blockchain Developer with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/), [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus) and [**Mode Network**](https://www.mode.network/).  
 
 Working With Urbe.eth on **Urbe Campus**, IRL workshops to onboard new builders on Ethereum.
 
-🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).  
-🏛️ Proud member of the [**urbe.eth community**](https://twitter.com/urbeEth).  
-⚡️ Contributing to [**ETHRome**](https://ethrome.org/).  
+🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).
 
 ---
 
