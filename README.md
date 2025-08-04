@@ -10,6 +10,8 @@ Working With Urbe.eth on **Urbe Campus**, IRL workshops to onboard new builders 
 
 🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).
 
+Building [Knots](https://www.knots.surf/)! the first kitesurfer social app. built for [IOS](https://apps.apple.com/it/app/knots/id6748521931) and (soon) Android.
+
 ---
 
 ## Web3 Hackathon Highlights 🛠️
