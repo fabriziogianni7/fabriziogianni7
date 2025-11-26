@@ -1,6 +1,6 @@
 # Ciao! 👋
 
-**Developer Engagement & Blockchain Developer ** | Building since 2018
+Developer Engagement & Blockchain Developer Since 2018
 
 Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://twitter.com/urbeEth).  
 
