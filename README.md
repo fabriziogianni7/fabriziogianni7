@@ -1,16 +1,16 @@
 # Ciao! 👋
 
-**Smart Contract Developer & Blockchain Educator** | Building since 2018 | 🤟 100% test coverage guy.
+**Developer Engagement & Blockchain Developer ** | Building since 2018
 
 Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://twitter.com/urbeEth).  
 
+Currently Building [Hoot!](https://www.hoot-quiz.com/) and [Knots](https://www.knots.surf/).
+
 FS blockchain Developer with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/), [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus) and [**Mode Network**](https://www.mode.network/).  
 
-Working With Urbe.eth on **Urbe Campus**, IRL workshops to onboard new builders on Ethereum.
+Working With Urbe.eth to onboard new builders on Ethereum. I do the most fun and engaging workshops out there.
 
-🎥 Running a [**Web3 YouTube channel**](https://www.youtube.com/@fabriziogianni7).
-
-Building [Knots](https://www.knots.surf/)! the first kitesurfer social app. built for [IOS](https://apps.apple.com/it/app/knots/id6748521931) and (soon) Android.
+more on [my personal website](https://fabri-dev.vercel.app/).
 
 ---
 
