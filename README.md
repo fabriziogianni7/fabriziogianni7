@@ -4,11 +4,11 @@ Developer Engagement & Blockchain Developer Since 2018
 
 Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://twitter.com/urbeEth).  
 
-Currently Building [Hoot!](https://www.hoot-quiz.com/) and [Knots](https://www.knots.surf/).
+Building [Openclast Wallet](https://github.com/fabriziogianni7/openclast-wallet), the first native, open-source wallet for [Openclaw](https://openclaw.ai/).
 
-FS blockchain Developer with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/), [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus) and [**Mode Network**](https://www.mode.network/).  
+FS blockchain Developer with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
 
-Working With Urbe.eth to onboard new builders on Ethereum. I do the most fun and engaging workshops out there.
+Working With Urbe.eth to onboard new builders on Ethereum. I do fun and engaging workshops.
 
 more on [my personal website](https://fabri-dev.vercel.app/).
 
