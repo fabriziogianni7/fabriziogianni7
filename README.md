@@ -1,65 +1,52 @@
 # Ciao! 👋
 
-Developer Engagement & Blockchain Developer Since 2018
+I build on the blockchain since 2018.
 
-Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://twitter.com/urbeEth).  
+I Contributing to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://x.com/urbeEth).  
 
-Building [Openclast Wallet](https://github.com/fabriziogianni7/openclast-wallet), the first native, open-source wallet for [Openclaw](https://openclaw.ai/).
-
-FS blockchain Developer with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
-
-Working With Urbe.eth to onboard new builders on Ethereum. I do fun and engaging workshops.
+Previously worked with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
 
 more on [my personal website](https://fabri-dev.vercel.app/).
 
 ---
 
-## Web3 Hackathon Highlights 🛠️
+## Building In Public
 
-- **zk-wormhole (ETHGlobal Trifecta)**  
-  [Repo](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) | [Demo](https://ethglobal.com/showcase/zk-wormhole-7d6c3) | [Live](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/)  
-  🏆 *Winner: Succint Prize*  
+- **The Ceo Protocol** [Repo](https://github.com/fabriziogianni7/the-ceo-protocol) | [Demo](https://youtu.be/nUudGem21TY?si=XvTHVGMd02eacbjT)
 
-- **Jarvis (Dagi House 2024)** (w/ [@mcmoodoo](https://github.com/mcmoodoo))  
-  [Repo](https://github.com/fabriziogianni7/Jarvis) | [Demo](https://www.youtube.com/watch?v=2keF5hi94xU) | [Live](https://jarvis-orpin-one.vercel.app/)  
-  🏆 *3rd Place*  
+- **Gundwane** [Repo](https://github.com/fabriziogianni7/gundwane) | [Demo](https://youtu.be/EJsIwkvjfJE?si=pBGbzMrm1g8C4iMc)
 
-- **Buckle (Chainlink Block Magic Hackathon)** (Solo)  
-  [Repo](https://github.com/fabriziogianni7/buckle-app) | [Demo](https://www.youtube.com/watch?v=re0vhNG-GqE) | [Live](https://buckle-app.vercel.app/)  
-  🏆 *2nd Place: Cross-Chain Track*  
+- **Openclast Wallet** [Repo](https://github.com/fabriziogianni7/openclast-wallet)
 
-- **Burra Vault (ETHGlobal LFGHO 2024)** (Solo)  
-  [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) | [Demo](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) | [Live](https://burra-vault-lfgho-434a41.spheron.app/)  
-  🏆 *Top 10 Finalist*  
+- **Overcollateralized Euro Stablecoin** [Repo](https://github.com/fabriziogianni7/overcollateralized-euro-stablecoin)
 
-- **Dub3.ai (ETHGlobal Istanbul 2023)**  
-  [Repo](https://github.com/fabriziogianni7/dub3) | [Demo](https://ethglobal.com/showcase/dub3-ai-h1riu)  
-  🏆 *1st Place: Best AI x Blockchain (Cartesi)*  
+- **Hoot** [Repo](https://github.com/fabriziogianni7/hoot) | [Demo](https://youtu.be/x2WBvPmQFg8?si=TEqJ-6dTMBWhIA91)
 
-- **Bob Is Safe (ETHGlobal Lisbon 2023)**  
-  [Repo](https://github.com/fabriziogianni7/bob-is-safe) | [Demo](https://youtu.be/jQ2h1h95F5Q)  
-  🏆 *1st Place: ZkBob Prize*  
+- **Knots** [App](https://www.knots.surf/)
 
-- **All0x (Scaling Ethereum 2023)** (Solo)  
-  [Repo](https://github.com/fabriziogianni7/All0x) | [Demo](https://youtu.be/pmzGyZu6NV8)  
+- **zk-wormhole** [Repo](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) | [Demo](https://ethglobal.com/showcase/zk-wormhole-7d6c3) | [Live](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/)  
 
-- **Smart Notary Protocol (Space Warp FVM Hack)** (Solo)  
-  [Repo](https://github.com/fabriziogianni7/Smart-Notary-Protocol) | [Demo](https://youtu.be/CYYsoPYDCes) | [Live](https://smart-notary-protocol.com/)  
-  🏆 *Top 10: Spheron Protocol*  
+- **Jarvis** (w/ [@mcmoodoo](https://github.com/mcmoodoo)) [Repo](https://github.com/fabriziogianni7/Jarvis) | [Demo](https://www.youtube.com/watch?v=2keF5hi94xU) | [Live](https://jarvis-orpin-one.vercel.app/)  
 
-- **IPFS Video Computation (ETHLisbon)**  
-  [Repo](https://github.com/rickkdev/ipfs-video-computation-bacalhau) | [Demo](https://youtu.be/mluxGr8h2ic)  
-  🏆 *1st Place: Bacalhau COD Category*  
+- **Buckle** [Repo](https://github.com/fabriziogianni7/buckle-app) | [Demo](https://www.youtube.com/watch?v=re0vhNG-GqE) | [Live](https://buckle-app.vercel.app/)  
 
-- **StraEthgify (ETHAmsterdam)**  
-  [Repo](https://github.com/fabriziogianni7/straEthgify) | [Demo](https://youtu.be/1xtfiZXh43c)  
-  🏆 *Prizes: Yearn.Finance & Gearbox Protocol*  
+- **Burra Vault** [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) | [Demo](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) | [Live](https://burra-vault-lfgho-434a41.spheron.app/) 
 
-- **Chainlink Technical Indicators (Chainlink Fall 2022)**  
-  [Repo](https://github.com/ialberquilla/chainlink-technical-indicators) | [Demo](https://youtu.be/VAmiDG67CY8)  
-  🏆 *Polygon Pool Prize*  
+- **Dub3.ai** [Repo](https://github.com/fabriziogianni7/dub3) | [Demo](https://ethglobal.com/showcase/dub3-ai-h1riu)
 
-*...and many more! Check my repos for the full scoop.*
+- **Bob Is Safe** [Repo](https://github.com/fabriziogianni7/bob-is-safe) | [Demo](https://youtu.be/jQ2h1h95F5Q)  
+
+- **All0x**[Repo](https://github.com/fabriziogianni7/All0x) | [Demo](https://youtu.be/pmzGyZu6NV8)  
+
+- **Smart Notary Protocol (Space Warp FVM Hack)** [Repo](https://github.com/fabriziogianni7/Smart-Notary-Protocol) | [Demo](https://youtu.be/CYYsoPYDCes) | [Live](https://smart-notary-protocol.com/)
+
+- **IPFS Video Computation** [Repo](https://github.com/rickkdev/ipfs-video-computation-bacalhau) | [Demo](https://youtu.be/mluxGr8h2ic) 
+
+- **StraEthgify (ETHAmsterdam)** [Repo](https://github.com/fabriziogianni7/straEthgify) | [Demo](https://youtu.be/1xtfiZXh43c)
+
+- **Chainlink Technical Indicators** [Repo](https://github.com/ialberquilla/chainlink-technical-indicators) | [Demo](https://youtu.be/VAmiDG67CY8)
+
+
 
 ---
 
