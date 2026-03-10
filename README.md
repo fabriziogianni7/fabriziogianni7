@@ -12,6 +12,8 @@ more on [my personal website](https://fabri-dev.vercel.app/).
 
 ## Building In Public
 
+- **Fabietto** [Repo](https://github.com/fabriziogianni7/fabietto/tree/main) | [Demo](https://www.youtube.com/watch?v=EbbFW8kGK00&list=PLRWSSe23vY_sNpVrKRp_GVAG5BW3UhgIm)
+
 - **The Ceo Protocol** [Repo](https://github.com/fabriziogianni7/the-ceo-protocol) | [Demo](https://youtu.be/nUudGem21TY?si=XvTHVGMd02eacbjT)
 
 - **Gundwane** [Repo](https://github.com/fabriziogianni7/gundwane) | [Demo](https://youtu.be/EJsIwkvjfJE?si=pBGbzMrm1g8C4iMc)
