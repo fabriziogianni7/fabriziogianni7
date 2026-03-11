@@ -1,6 +1,6 @@
 # Ciao! 👋
 
-I build on the blockchain since 2018.
+I build on the blockchain.
 
 I Contribute to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://x.com/urbeEth).  
 
