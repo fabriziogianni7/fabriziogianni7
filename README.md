@@ -30,11 +30,11 @@ more on [my personal website](https://fabri-dev.vercel.app/).
 
 - **Jarvis** - DeFi manager built on top of Phala and Brian - (w/ [@mcmoodoo](https://github.com/mcmoodoo)) [Repo](https://github.com/fabriziogianni7/Jarvis) | [Demo](https://www.youtube.com/watch?v=2keF5hi94xU) | [Live](https://jarvis-orpin-one.vercel.app/)  
 
-- **Buckle** - "Lock and Unlock" bridge built with Chainlink CCIP ( 🚀 Winner of Chainlink Hackathon) -[Repo](https://github.com/fabriziogianni7/buckle-app) | [Demo](https://www.youtube.com/watch?v=re0vhNG-GqE) | [Live](https://buckle-app.vercel.app/)  
+- **Buckle** - "Lock and Unlock" bridge built with Chainlink CCIP ( 🚀 Winner of Chainlink Hackathon) - [Repo](https://github.com/fabriziogianni7/buckle-app) | [Demo](https://www.youtube.com/watch?v=re0vhNG-GqE) | [Live](https://buckle-app.vercel.app/)  
 
 - **Burra Vault** - GHO Pegging protocol - [Repo](https://github.com/fabriziogianni7/Burra-Vault-LFGHO/tree/main) | [Demo](https://www.youtube.com/watch?v=tEKQqmg4-w8&t=1253s) | [Live](https://burra-vault-lfgho-434a41.spheron.app/) 
 
-- **Dub3.ai** - AI on-chain marketplace for real voices -[Repo](https://github.com/fabriziogianni7/dub3) | [Demo](https://ethglobal.com/showcase/dub3-ai-h1riu)
+- **Dub3.ai** - AI on-chain marketplace for real voices - [Repo](https://github.com/fabriziogianni7/dub3) | [Demo](https://ethglobal.com/showcase/dub3-ai-h1riu)
 
 - **Bob Is Safe** - Private on-chain transfers using Safe wallet and [ZkBob](https://www.zkbob.com/) - [Repo](https://github.com/fabriziogianni7/bob-is-safe) | [Demo](https://youtu.be/jQ2h1h95F5Q)  
 
