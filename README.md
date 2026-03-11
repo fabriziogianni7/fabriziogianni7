@@ -28,7 +28,7 @@ more on [**my personal website**](https://fabri-dev.vercel.app/).
 
 - **zk-wormhole** - Private ERC20 transfer on EVM, built with [Succint SP1](https://github.com/succinctlabs/sp1) - [**Repo**](https://github.com/builders-garden/zk-wormhole-monorepo/tree/main) | [**Demo**](https://ethglobal.com/showcase/zk-wormhole-7d6c3) | [**App**](https://zk-wormhole-monorepo-git-main-buildersgarden.vercel.app/)  
 
-- **Jarvis** - DeFi manager built on top of Phala and Brian - (w/ [@mcmoodoo](https://github.com/mcmoodoo)) [**Repo**](https://github.com/fabriziogianni7/Jarvis) | [**Demo**](https://www.youtube.com/watch?v=2keF5hi94xU) | [**App**](https://jarvis-orpin-one.vercel.app/)  
+- **Jarvis** - DeFi manager built on top of Phala and Brian - [**Repo**](https://github.com/fabriziogianni7/Jarvis) | [**Demo**](https://www.youtube.com/watch?v=2keF5hi94xU) | [**App**](https://jarvis-orpin-one.vercel.app/)  
 
 - **Buckle** - "Lock and Unlock" bridge built with Chainlink CCIP ( 🚀 Winner of Chainlink Hackathon) - [**Repo**](https://github.com/fabriziogianni7/buckle-app) | [**Demo**](https://www.youtube.com/watch?v=re0vhNG-GqE) | [**App**](https://buckle-app.vercel.app/)  
 
