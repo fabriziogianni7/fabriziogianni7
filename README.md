@@ -12,11 +12,13 @@ more on [**my personal website**](https://fabri-dev.vercel.app/).
 
 ## Building In Public
 
+- **Autonomous Fabiettus** - Autonomous deFi AI agent built with on top of [Fabietto](https://github.com/fabriziogianni7/fabietto/tree/main) - [**Repo**](https://github.com/fabriziogianni7/autonomous-fabiettus)
+
 - **DuckFlow** - Notes * (slides + script + teleprompter) = the perfect presentation - [**App**](https://duckflow-slides.vercel.app/)
 
 - **Tokenaru** - x402-based AI agent for any on-chain data - [**App**](https://tokenaru.vercel.app/)
 
-- **Fabietto** - Autonomous AI agent built with Go - [**Repo**](https://github.com/fabriziogianni7/fabietto/tree/main) | [**App**](https://v0-fabietto-go-agent.vercel.app/)
+- **Fabietto** - AI agent framework built with Go - [**Repo**](https://github.com/fabriziogianni7/fabietto/tree/main) | [**App**](https://v0-fabietto-go-agent.vercel.app/)
 
 - **The Ceo Protocol** - Agents manage funds deposited in a ERC4626 vault -  [**Repo**](https://github.com/fabriziogianni7/the-ceo-protocol) | [**Demo**](https://youtu.be/nUudGem21TY?si=XvTHVGMd02eacbjT)
 
