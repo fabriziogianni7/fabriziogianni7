@@ -12,7 +12,9 @@ more on [**my personal website**](https://fabri-dev.vercel.app/).
 
 ## Building In Public
 
-- **Tokenaru** - x402-based Agent for any on-chain data - [**App**](https://tokenaru.vercel.app/)
+- **DuckFlow** - Notes * (slides + script + teleprompter) = the perfect presentation - [**App**](https://duckflow-slides.vercel.app/)
+
+- **Tokenaru** - x402-based AI agent for any on-chain data - [**App**](https://tokenaru.vercel.app/)
 
 - **Fabietto** - Autonomous AI agent built with Go - [**Repo**](https://github.com/fabriziogianni7/fabietto/tree/main) | [**App**](https://v0-fabietto-go-agent.vercel.app/)
 
