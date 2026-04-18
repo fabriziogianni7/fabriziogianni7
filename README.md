@@ -13,7 +13,7 @@ more on [**my personal website**](https://fabri-dev.vercel.app/).
 ## Building In Public
 
 - **Blindr** - AI Smart glasses Assistant, help you locate objects, describe surrounding and navigate everyday life - [**Repo**](https://github.com/fabriziogianni7/blind-whisperer) | [**60 seconds Demo**](https://www.youtube.com/shorts/qeMuDtFe34c)
-- 
+
 - **Autonomous Fabiettus** - Autonomous deFi AI agent built with on top of [Fabietto](https://github.com/fabriziogianni7/fabietto/tree/main) - [**Repo**](https://github.com/fabriziogianni7/autonomous-fabiettus) | [**chat with him now**](https://t.me/+W6uDp6YN7nAxYzA0)
 
 - **Deckport** - Notes * (slides + script + teleprompter) = the perfect presentation - [**App**](https://deckport.cloud)
