@@ -4,7 +4,7 @@ I build on the blockchain.
 
 I Contribute to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community**](https://x.com/urbeEth).  
 
-Previously worked with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and collab w [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
+Previously worked with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
 
 more on [**my personal website**](https://fabri-dev.vercel.app/).
 
