@@ -6,7 +6,7 @@ I Contribute to [**ETHRome**](https://ethrome.org/) and to [**urbe.eth community
 
 Previously worked with [**Beam Network**](https://onbeam.com/), [**Keyko**](https://keyko.io/) and [**Filecoin**](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus).
 
-I created [Agentic Pantheon](https://github.com/agentic-pantheon), an organization specialized in multi-agents systems. 
+I created [**Agentic Pantheon**](https://github.com/agentic-pantheon), an organization specialized in multi-agents systems. 
 
 more on [**my personal website**](https://fabri-dev.vercel.app/).
 
