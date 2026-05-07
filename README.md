@@ -8,7 +8,7 @@ Previously worked with [**Beam Network**](https://onbeam.com/), [**Keyko**](http
 
 I created [**Agentic Pantheon**](https://github.com/agentic-pantheon), an organization specialized in multi-agents systems. 
 
-I contribute to [**SPIDER bootcamp**](https://spideragents.xyz): a 6 weeks  bootcamp aimed to teach how to build AI agents
+I'm a co-host and co-founder of [**SPIDER bootcamp**](https://spideragents.xyz): a 6 weeks  bootcamp aimed to teach how to build AI agents
 
 more on [**my personal website**](https://fabri-dev.vercel.app/).
 
